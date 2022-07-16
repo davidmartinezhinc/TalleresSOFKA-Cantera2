@@ -1,1 +1,1 @@
-# TalleresSOFKA-Cantera2
+# Talleres SOFKA Cantera2
