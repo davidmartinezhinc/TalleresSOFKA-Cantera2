@@ -2,7 +2,7 @@ package modelamiento.ejercicio3;
 
 import java.util.Arrays;
 
-public class NumerosAleatorios {
+public class NumerosAleatorios  {
 
    private double[] numerosReales;
 

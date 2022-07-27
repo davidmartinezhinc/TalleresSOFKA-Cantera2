@@ -33,7 +33,7 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.modelamiento.ejercicio3.MainNumerosReales">
+  <component name="RunManager" selected="Application.MainVehiculo">
     <configuration name="MainNumerosReales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="modelamiento.ejercicio3.MainNumerosReales" />
       <module name="EjerciciosPOO" />
@@ -60,8 +60,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainVehiculo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modelamiento.ejercicio4.MainVehiculo" />
+      <module name="EjerciciosPOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modelamiento.ejercicio4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainVehiculo" />
         <item itemvalue="Application.modelamiento.ejercicio3.MainNumerosReales" />
         <item itemvalue="Application.MainSistemaPlanetario" />
       </list>
@@ -75,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658095687097</updated>
-      <workItem from="1658095690132" duration="52439000" />
+      <workItem from="1658095690132" duration="59876000" />
     </task>
     <servers />
   </component>
